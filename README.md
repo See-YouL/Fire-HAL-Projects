@@ -14,3 +14,13 @@
 
 ## 内核差异介绍
 
+**Cotex 内核指令的差异**
+
+![Cotex 内核指令差异](https://raw.githubusercontent.com/See-YouL/MarkdownPhotos/main/%E6%88%AA%E5%B1%8F2024-01-07%2009.04.51.png)
+
+- 指令集, 浮点运算, 数字信号处理
+- 是否有cache, TCM
+- 性能的差异
+- 功耗
+
+## 
